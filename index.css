@@ -107,4 +107,8 @@ margin-left: 240px;
     display: flex;
     align-items: center;
 }
-
+.footer{
+    margin-left: 1040px;
+    margin-top: 90px;
+    display: flex;
+}
