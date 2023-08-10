@@ -1,3 +1,9 @@
-please check this live link
+notun kore link dewa jasse na...
+please check this link ..
 
- https://mamun5127.github.io/assignment2-rechack/
+code link:
+https://github.com/mamun5127/assign2.git
+
+
+live link:
+https://mamun5127.github.io/assign2/
